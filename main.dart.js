@@ -29731,7 +29731,7 @@ if(a!=null&&a!==0)o.n(0,"brandIds",A.l(a))
 o.n(0,"minPrice",B.d.j(f==null?0:f))
 o.n(0,"maxPrice",B.d.j(e==null?999999999:e))
 s=3
-return A.p(A.ds(A.bl2("https","flutter-35eh.onrender.com","/api/v1/products/filter",o),null),$async$asa)
+return A.p(A.ds(A.bl2("https","spring-boot-final-mhp7.onrender.com","/api/v1/products/filter",o),null),$async$asa)
 case 3:p=k
 if(p.b===200){q=A.aYb(B.w.cF(0,A.c5(A.cb(p.e),B.J).aL(0,p.w),null))
 s=1
